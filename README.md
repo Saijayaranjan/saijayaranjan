@@ -17,7 +17,7 @@
          - 📫 How to reach me: <a href="https://dsc.gg/gcafe">Sai Jayaranjan#1899</a> on Discord -
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saijayaranjan&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saijayaranjan&theme=radical&hide_border=true" />
          </p>  
       </td>
       <td>
