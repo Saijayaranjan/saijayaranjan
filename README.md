@@ -14,7 +14,7 @@
          <br/>
          - 💬 Ask me about <strong>JavaScript, Html, CSS, Learning More Languages</strong> -
          <br/>
-         - 📫 How to reach me: <a href="https://dsc.gg/gcafe">DarkThunder#1899</a> on Discord -
+         - 📫 How to reach me: <a href="https://dsc.gg/gcafe">Sai Jayaranjan#1899</a> on Discord -
          <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saijayaranjan&theme=radical&hide_border=true" />
@@ -22,7 +22,7 @@
       </td>
       <td>
       <br/><br/>
-      <h2 align="center">📊 DarkThunder's Github Statistics 📊 </h2>   
+      <h2 align="center">📊 Sai Jayaranjan's Github Statistics 📊 </h2>   
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Saijayaranjan&theme=radical&hide_border=true" />   
          <br/><br/><br/>
