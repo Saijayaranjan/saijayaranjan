@@ -172,7 +172,7 @@
 </div>
 
 <div align="center">
-  <i>**"The best way to predict the future is to create it."** - Peter Drucker</i>
+  <i>"The best way to predict the future is to create it." - Peter Drucker</i>
 </div>
 
 <div align="center">
