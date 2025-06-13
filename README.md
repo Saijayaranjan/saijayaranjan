@@ -35,10 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saijayaranjan&theme=react&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saijayaranjan&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
 <br/>
 
 ## 🛠️ Technologies & Tools
@@ -48,9 +44,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -58,57 +51,20 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Data Science & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br/>
-
-## 💼 Experience
-
-### 🏢 Code For Good - Software Developer Intern
-**June 2024 - August 2024**
-- Developed scalable web applications using React.js and Node.js
-- Implemented responsive UI components with modern CSS frameworks
-- Collaborated with cross-functional teams on social impact projects
-- Optimized application performance by 30% through code refactoring
-
-### 📊 Tech Analytics - Data Science Intern  
-**January 2024 - May 2024**
-- Built machine learning models for predictive analytics with 85% accuracy
-- Created interactive data visualizations using Python, R, and Tableau
-- Processed large datasets and implemented ETL pipelines
-- Presented insights to stakeholders and contributed to business decisions
-
-<br/>
 
 ## 🚀 Featured Projects
 
@@ -126,13 +82,6 @@
 - Responsive design with excellent user experience
 - Secure authentication and authorization system
 
-### 🤖 Machine Learning API Service
-**Tech Stack:** FastAPI, PyTorch, Docker, PostgreSQL
-- RESTful API serving multiple ML models
-- Docker containerization for scalable deployment
-- Comprehensive testing and monitoring setup
-- API documentation with Swagger/OpenAPI
-
 <br/>
 
 ## 🎯 Current Goals
@@ -145,34 +94,20 @@
 
 <br/>
 
-## 🏆 Achievements
-
-- 🎯 **Dean's List** - SRM Institute of Science and Technology
-- 📜 **Python for Data Science** Certification - IBM
-- 🏅 **JavaScript Algorithms and Data Structures** - freeCodeCamp
-- 🥇 **Hackathon Winner** - College Tech Fest 2024
-- ⭐ **Open Source Contributor** - 50+ contributions across various projects
-
-<br/>
-
 ## 🤝 Connect with Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saijayaranjan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saijayaranjan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.srikanth@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saijayaranjan@icloud.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saijayaranjan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saijayaranjan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saijayaranjan.github.io)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saijayaranjan&label=Profile%20Views&color=00D8FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>"The best way to predict the future is to create it." - Peter Drucker</i>
+  <i>**The best way to predict the future is to create it.** - Peter Drucker</i>
 </div>
 
 <div align="center">
