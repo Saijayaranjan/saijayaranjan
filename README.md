@@ -19,7 +19,6 @@
 - 🤔 I'm looking for help with **Distributed Systems & Scalable Architecture**
 - �💬 Ask me about **React, Node.js, Python, Data Science, Web Development**
 - 📫 How to reach me: **saijayaranjan@icloud.com**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
 
 <br/>
 
