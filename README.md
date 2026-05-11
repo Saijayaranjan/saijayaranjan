@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sai%20Srikanth&fontSize=35&fontColor=white&animation=fadeIn"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Sai Srikanth (Jayaranjan)</h1>
+<h1 align="center">Hi 👋, I'm Sai Srikanth Jayaranjan</h1>
 <h3 align="center">Computer Science Student | Full Stack Developer | Data Science Explorer</h3>
 
 <div align="center">
